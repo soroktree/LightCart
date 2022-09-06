@@ -1,0 +1,4 @@
+  <%= turbo_stream.replace "cart" do %>
+    <%= render partial: "cart/cart" if @render_cart %>
+    <%# <%= render partial: 'partial_path', locals: { ... } %> 
+  <% end %>
