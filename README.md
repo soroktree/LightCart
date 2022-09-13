@@ -1,24 +1,7 @@
-# README
+This sample app demonstrates how to create a product cart with HotWire.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+  * Product can be dynamicly add and delete from cart without page refresh
 
-Things you may want to cover:
+  * It would be nice to implement fetures to add product quantity by number filed changing value action
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+<img src="https://github.com/soroktree/LightCart/blob/main/app/assets/images/lightcart1.png" alt="screenshots" style="max-width: 100%;">
